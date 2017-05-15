@@ -66,7 +66,7 @@ export https_proxy=$ALL_PROXY
 ```
 
 ### Predix Platform and Cloud Foundry
-Traffic Seed App is using Predix Platform and Cloud Foundry to push the application to cloud. If you do not have account created in Predix, please click [here](https://www.predix.io/) to create one.
+The Enterprise reference app is using Predix Platform and Cloud Foundry to push the application to cloud. If you do not have account created in Predix, please click [here](https://www.predix.io/) to create one.
 
 For more information on using Predix platform and Cloud Foundry, check [this](https://predix-io.run.asv-pr.ice.predix.io/resources) website.
 
